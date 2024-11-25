@@ -28,7 +28,7 @@ Currently, no public repositories are available. Once we finalize key developmen
 
 ## Connect With Us  
 For the latest updates and announcements, follow Sirath Network on:  
-- [Twitter](https://x.com/SirathNetwork)  
+- [X/Twitter](https://x.com/SirathNetwork)  
 - [Telegram](https://t.me/SirathNetwork)  
 - [Discord](https://discord.gg/4xY6PYdjhz)
 
