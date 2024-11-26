@@ -1,6 +1,6 @@
-# Sirath Network (🚧 In Development 🚧)
+# Sirath Network Website & Public Repository (🚧 In Development 🚧)
 
-Welcome to the Sirath Network GitHub repository! At this stage, we are actively developing and refining our solutions to ensure a scalable, secure, and efficient blockchain infrastructure.
+Welcome to the Sirath Network! At this stage, we are actively developing and refining our solutions to ensure a scalable, secure, and efficient blockchain infrastructure.
 
 ## About Sirath Network
 
