@@ -1,4 +1,4 @@
-# Sirath Network Website & Public Repository (🚧 In Development 🚧)
+# Sirath Network Ecosystem & Public Repository (🚧 In Development 🚧)
 
 Welcome to the Sirath Network! At this stage, we are actively developing and refining our solutions to ensure a scalable, secure, and efficient blockchain infrastructure.
 
